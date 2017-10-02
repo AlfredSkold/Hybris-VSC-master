@@ -6,4 +6,10 @@
 
 .startimg {
     width: 25%;
+    
+    float: left;
 }  
+
+.marginleft {
+    margin-left: 15%;
+}
